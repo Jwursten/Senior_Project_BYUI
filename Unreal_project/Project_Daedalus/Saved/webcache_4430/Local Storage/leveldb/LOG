@@ -1,2 +1,3 @@
-2025/01/21-20:33:47.686 5f58 Creating DB C:/Users/Capta/Documents/GitHub/Senior_Project_BYUI/Unreal_project/Project_Daedalus/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/01/21-20:33:47.700 5f58 Reusing MANIFEST C:/Users/Capta/Documents/GitHub/Senior_Project_BYUI/Unreal_project/Project_Daedalus/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/30-19:57:32.006 6600 Reusing MANIFEST C:/Users/Capta/Documents/GitHub/Senior_Project_BYUI/Unreal_project/Project_Daedalus/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/30-19:57:32.017 6600 Recovering log #3
+2025/01/30-19:57:32.018 6600 Reusing old log C:/Users/Capta/Documents/GitHub/Senior_Project_BYUI/Unreal_project/Project_Daedalus/Saved/webcache_4430\Local Storage\leveldb/000003.log 
